@@ -10,10 +10,10 @@ Quantum Computing has the ability to do computations that classical computers ca
 A user would keep a downloaded verison of the program on their computer. To use the program, the user must install qiskit and quantuminspire, upload their file into the program, then run it. 
 
   
-## Socical Good
+## Social Good
 
 The importance of accurately identifying cases of pneumonia within hospitals or clinics is immense, especially in infants and elderly. Early detection of this infection can save patients from pain, abscess, and possibly death.  
 
 ## Dataset used
-\href{Chest X-rays for Pneumonia}{https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia}
+<a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Chest X-rays for Pneumonia</a>
 
