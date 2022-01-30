@@ -10,3 +10,9 @@ How to use:
 User would keep a downloaded verison of the program on their computer. To use program, the user must install qiskit and quantuminspire, upload their file into the program, then run it. 
 
   
+Socical Good:
+
+The importance of accurately identifying cases of pneumonia within hospitals or clinics is immense, especially in infants and elderly. Early detection of this infection can save patients from pain, abscess, and possibly death.  
+
+
+
