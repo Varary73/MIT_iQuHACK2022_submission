@@ -14,8 +14,8 @@ A user would keep a downloaded verison of the program on their computer. To use 
 
 The importance of accurately identifying cases of pneumonia within hospitals or clinics is immense, especially in infants and elderly. Early detection of this infection can save patients from pain, abscess, and possibly death.  
 
+## Presentation
+<a href="https://docs.google.com/presentation/d/1ssnfJrasTTIvifmAeotBOQqsc3UM9kXdUUwMs319gOo/edit?usp=sharing">Google Slides Presentation</a>
+
 ## Dataset used
 <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Chest X-rays for Pneumonia</a>
-
-## Link for Presentation
-<a href="https://docs.google.com/presentation/d/1ssnfJrasTTIvifmAeotBOQqsc3UM9kXdUUwMs319gOo/edit?usp=sharing">Presentation</a>
